@@ -1,6 +1,8 @@
 # Useful IT resources
 
-A list of useful resources:
+Categories:
 
-* [goalkicker.com](https://goalkicker.com) (Notes for books)
-* [cheat.sh](https://cheat.sh)
+* [Cheat Sheets](./Cheat%20Sheets/)
+* [Programming](./Programing/)
+* [Web Templates](./Web%20Templates/)
+
